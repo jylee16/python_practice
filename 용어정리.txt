@@ -1,0 +1,15 @@
+ionic - 하이브리드 앱 개발 프레임워크 (cordorva기반으로 gui 및 cli 기능을 추가)
+cordova - apache 재단에서 지원하는 하이브리드 앱 프레임워크
+            - JS를 이용하여 native device 에 접근할 수 있도록 하는 device API set.
+node.js - java script 로 구현된 severside lanaguage
+angularJS -SPA(Single Page Application) 프레임워크 (https://webclub.tistory.com/206)
+		      -  SPA & 자바스크립트 기반의 MV* 프레임워크
+SPA -하나의 웹 페이지가 실행할 때 View 단에 해당되는 부분이 페이지의 주소가 바뀌지 않으면서 또 다른 새로운 view 를  동적으로 로드하여  사용하는 것을 SPA
+native app - 
+react - 오픈소스 자바스크립트 라이브러리
+java script - 웹브라우저에 기본적으로 intepreter를 포함하고 있는 언어 
+php -  HTML 코드를 프로그래밍적으로 생성; serverside language
+apache - web server
+mysql - db
+html 
+css
